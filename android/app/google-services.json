@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493976976882",
+    "project_id": "dbdentalzafiro",
+    "storage_bucket": "dbdentalzafiro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493976976882:android:36fd6e12ed103c84777f6b",
+        "android_client_info": {
+          "package_name": "com.fidelitas.clinicadentalzafiro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8IK3a3ed3FwxuKExQI_bK08T2ZBOlEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
